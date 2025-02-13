@@ -1,19 +1,18 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nydia!
 ==============================================================================================================================
 
-I'm a self-thought front-end developer from a non-technical background in business, tech, and art. 
+🤓 I'm a self-thought front-end developer with a non-technical background in business, tech, and art. 
 -------------------------------------------
 
-# More about Me
-- 🎨 I'm a Front-End Developer & Interdisciplinary Artist 
+# 🙋 More About Me 
 - 🏢 Former Sales Strategist @ HubSpot and Intern @ Microsoft and Sony 
 - 🧠 SheCodes Front-End Developer Graduate 
 - 🌐 Founder of Bussy Temple, a grassroots queer collective specializing in conceptualizing thematic concepts into end-to-end event productions and curation in Southeast Asia.
-- 🌍 I'm currently based in Singapore and around Southeast Asia
+- 🌍 Based in Singapore and around Southeast Asia
 
-# I’m currently actively improving my React.js and JavaScript skills by: 
-- 💻 Developing web apps with JavaScript, React, HTML, and CSS, based on real-life designs from FrontendMentor.io [](https://www.frontendmentor.io/profile/nydiasubur)
-- 💻 Freelance work building portfolios for artists 
+# 👀 What I'm currently doing and exploring with front-end development related:
+- 💻 Actively deepening my skills with JavaScript and React by building web applications based on real-life designs from FrontendMentor.io [](https://www.frontendmentor.io/profile/nydiasubur)
+- 💻 Freelance work building portfolio websites for artists 
 - 🌱 Exploring Jen Simmons’ CSS Grid theories, animation techniques, and advanced JavaScript.
 
 
