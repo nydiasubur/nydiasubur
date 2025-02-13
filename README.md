@@ -1,24 +1,26 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nydia!
 ==============================================================================================================================
 
-some people also know me by the name Zenon. I transitioned into front-end development from a non-technical background in business, tech, and art. 
+I'm a self-thought front-end developer from a non-technical background in business, tech, and art. 
 -------------------------------------------
 
 # More about Me
-🎨 I'm a Front-End Developer & Interdisciplinary Artist 
-🏢 Former Sales Strategist @ HubSpot and Intern @ Microsoft and Sony 
-🧠 SheCodes Front-End Developer Graduate 
-🌐 Founder of Bussy Temple, a grassroots queer collective specializing in conceptualizing thematic concepts into end-to-end event productions and curation in Southeast Asia. 
+- 🎨 I'm a Front-End Developer & Interdisciplinary Artist 
+- 🏢 Former Sales Strategist @ HubSpot and Intern @ Microsoft and Sony 
+- 🧠 SheCodes Front-End Developer Graduate 
+- 🌐 Founder of Bussy Temple, a grassroots queer collective specializing in conceptualizing thematic concepts into end-to-end event productions and curation in Southeast Asia.
+- 🌍 I'm currently based in Singapore and around Southeast Asia
 
 # I’m currently actively improving my React.js and JavaScript skills by: 
-- 💻 Developing web apps with JavaScript, React, HTML, and CSS, based on real-life designs from FrontendMentor.io 
+- 💻 Developing web apps with JavaScript, React, HTML, and CSS, based on real-life designs from FrontendMentor.io [](https://www.frontendmentor.io/profile/nydiasubur)
 - 💻 Freelance work building portfolios for artists 
-- 🌱 Exploring Jen Simmons’ CSS Grid theories, animation techniques, and advanced JavaScript. 
-💬 Ask me about creative coding, event organizing, and building inclusive communities.
+- 🌱 Exploring Jen Simmons’ CSS Grid theories, animation techniques, and advanced JavaScript.
 
-📧 How to reach me: LinkedIn
 
-*   🌍  I'm current based in Singapore and around SouthEast Asia
+
+- 💬 Ask me about creative coding, event organizing, and building inclusive communities.
+
+📧 How to reach me: nydiasubur@gmail.com !
 
 ### Skills
 
